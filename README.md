@@ -1,5 +1,7 @@
 # CNCmusic
-A script that generates G-code that when executed on a CNC machine sounds like music
+A script that generates G-code that when executed on a CNC machine or a 3D printer sounds like music.
+
+A simple example of my CNC playing Für Elise can be seen here: https://www.youtube.com/watch?v=kkC3NnwLY1g
 
 usage: cnc_music.py [-h] [--steps-per-mm STEPS_PER_MM] [--x-limit X_LIMIT] [--tempo TEMPO] [--output OUTPUT] sequence_file
 
